@@ -4,3 +4,13 @@ main: org.dabhiru.aibot.AI_bot
 api-version: '1.20'
 authors: [Dabhiru|Xgaming]
 description: AI PVP BOT
+commands:
+  spawnbot:
+    usage: /spawnbot
+    description: ai bot
+  equipbot:
+    usage: /equipbot
+    description: ai bot equip
+  startnpc:
+    usage: /startnpc
+    description:  ai bot start
