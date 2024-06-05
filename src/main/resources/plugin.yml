@@ -1,0 +1,6 @@
+name: AI-bot
+version: '${project.version}'
+main: org.dabhiru.aibot.AI_bot
+api-version: '1.20'
+authors: [Dabhiru|Xgaming]
+description: AI PVP BOT
